@@ -1,0 +1,79 @@
+# Site settings
+
+url: "http://alexbettadapur.com"
+title: "Alex Bettadapur"
+description: "Personal website for Alex Bettadapur. Come on in!"
+keywords: "alex, bettadapur, Rackspace, Georgia Tech, gatech, Cirrity, Microsoft"
+favicon: "/img/favicon.ico"
+black-favicon: "/img/black-lab-glass.ico"
+
+
+# Navigation bar links
+# Blog link in the blog and post pages will point to the blog.html#blog
+# In the default page it will point to the preview of the last post
+
+pages_list:
+  About: 'about'
+  Projects: 'projects'
+  Career: 'career'
+  Contact: 'contact'
+
+background-img: "/img/intro-bg.jpg"
+
+# About variables
+
+me-img: "/img/me.jpg"
+
+# Blog variables
+paginate: 15
+
+paginate_path: "blog/page:num"
+
+post-preview-words: 128
+
+fb-share: True
+twitter-share: True
+reddit-share: True
+
+# Career variables
+
+events:
+  - title: "<a href=\"http://gatech.edu\" target=\"_blank\">Georgia Institute of Technology</a>"
+    image: "/img/career/tech.jpg"
+    date: "August 2012 - December 2015"
+    description: "Bachelors degree in Computer Science with a concentration in System Architecture and Computer Networking"
+  - title: "<a href=\"https://microsoft.com\" target=\"_blank\">Microsoft</a>"
+    image: "/img/career/microsoft.jpg"
+    date: "May 2015 - August 2015"
+    description: "Software Development Intern in Seattle. Worked on <a href=\"https://products.office.com/en-us/project/enterprise-project-server\" target=\"_blank\">Microsoft Project Server and Project Online</a>. Used Microsoft Cosmos to aggregate large scale usage stats and identify unperformant areas of the application"   
+  - title: "<a href=\"http://cirrity.com\" target=\"_blank\">Cirrity</a>"
+    image: "/img/career/cirrity.png"
+    date: "January 2015 - Present"
+    description: "Software Development Intern in Atlanta. Work on developing a customer portal in ASP MVC.NET. Uses the .NET Entity Framework with SQL Server"
+  - title: "<a href=\"https://rackspace.com\" target=\"_blank\">Rackspace</a>"
+    image: "/img/career/rackspace.png"
+    date: "May 2014 - August 2014"
+    description: "Software Development Intern in Atlanta. Worked on the <a href=\"https://wiki.openstack.org/wiki/Zaqar\" target=\"_blank\">Openstack Marconi (now Zaqar) </a> open-source queueing service. Also worked with RabbitMQ cluster orchestration."
+  - title: "<a href=\"http://ignitionone.com\" target=\"_blank\">IgnitionOne</a>"
+    image: "/img/career/ignition.png"
+    date: "May 2013 - August 2013"
+    description: "DevOps Intern in Atlanta. Deployed the Hubot chat bot that can execute deployment scripts in the chat window within the organization. Built a pixel tracking server in Node.JS that could handle 20k rps"
+  - title: "Research Assistant - MURI"
+    image: "/img/career/tech.jpg"
+    date: "January 2013 - December 2013"
+    description: "Worked with Dr. Jim Rehg on making an autonomous rally car. Worked with ROS, XBEE, and Arduinos to drive the vehicle"  
+
+# First image of the Career timeline
+career-img: "/img/career/dflt.png"
+
+# Social networks variables (many more available: facebook, flickr, dribbble, pinterest, instagram, tumblr etc.)
+social:
+  - title: "github"
+    url: "https://github.com/abettadapur"
+  - title: "linkedin"
+    url: "http://linkedin.com/in/abettadapur"
+
+404-img: "/img/labtocat.png"
+
+# Exclusion list from the generated _site
+exclude: ["Rakefile", "LICENSE", "readme.markdown", "vendor"]
