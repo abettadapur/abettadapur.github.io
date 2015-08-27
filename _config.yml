@@ -45,7 +45,7 @@ events:
   - title: "<a href=\"https://microsoft.com\" target=\"_blank\">Microsoft</a>"
     image: "/img/career/microsoft.jpg"
     date: "May 2015 - August 2015"
-    description: "Software Development Intern in Seattle. Worked on <a href=\"https://products.office.com/en-us/project/enterprise-project-server\" target=\"_blank\">Microsoft Project Server and Project Online</a>. Used Microsoft Cosmos to aggregate large scale usage stats and identify unperformant areas of the application"   
+    description: "Software Development Intern in Seattle. Worked on <a href=\"https://products.office.com/en-us/project/enterprise-project-server\" target=\"_blank\">Microsoft Project Server and Project Online</a>, where I delivered a highly requested customer feature. Also used Microsoft Cosmos to aggregate large scale application telemetry and identify under performing areas of the application"
   - title: "<a href=\"http://cirrity.com\" target=\"_blank\">Cirrity</a>"
     image: "/img/career/cirrity.png"
     date: "January 2015 - Present"
