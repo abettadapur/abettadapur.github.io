@@ -6,7 +6,7 @@ description: "Personal website for Alex Bettadapur. Come on in!"
 keywords: "alex, bettadapur, Rackspace, Georgia Tech, gatech, Cirrity, Microsoft"
 favicon: "/img/favicon.ico"
 black-favicon: "/img/black-lab-glass.ico"
-
+google-tracking-id: "UA-66892574-1"
 
 # Navigation bar links
 # Blog link in the blog and post pages will point to the blog.html#blog
