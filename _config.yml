@@ -1,9 +1,10 @@
 # Site settings
 
 url: "http://alexbettadapur.com"
-title: "Alex Bettadapur"
-description: "Personal website for Alex Bettadapur. Come on in!"
-keywords: "alex, bettadapur, Rackspace, Georgia Tech, gatech, Cirrity, Microsoft"
+title: "Alex Bettadapur's Personal Site"
+author: "Alex Bettadapur"
+description: "Fourth year computer scientist from Georgia Tech. Soon to be starting at Microsoft in Redmond this Spring"
+keywords: "alex, bettadapur, alex bettadapur, Alex Bettadapur, Technology, Computer Science, college grad, grad, Rackspace, Georgia Tech, gatech, Cirrity, Microsoft"
 favicon: "/img/favicon.ico"
 black-favicon: "/img/black-lab-glass.ico"
 google-tracking-id: "UA-66892574-1"
