@@ -39,7 +39,7 @@ reddit-share: True
 # Career variables
 
 events:
- - title: "<a href=\"https://products.office.com/en-us/project/project-and-portfolio-management-software\" target=\"_blank\">Microsoft</a>"
+  - title: "<a href=\"https://products.office.com/en-us/project/project-and-portfolio-management-software\" target=\"_blank\">Microsoft</a>"
     image: "/img/career/microsoft.jpg"
     date: "March 2016 - Present"
     description: "Junior software developer on the Microsoft Project team."
