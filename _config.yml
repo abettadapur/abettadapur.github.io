@@ -39,6 +39,10 @@ reddit-share: True
 # Career variables
 
 events:
+ - title: "<a href=\"https://products.office.com/en-us/project/project-and-portfolio-management-software\" target=\"_blank\">Microsoft</a>"
+    image: "/img/career/microsoft.jpg"
+    date: "March 2016 - Present"
+    description: "Junior software developer on the Microsoft Project team."
   - title: "<a href=\"http://gatech.edu\" target=\"_blank\">Georgia Institute of Technology</a>"
     image: "/img/career/tech.jpg"
     date: "August 2012 - December 2015"
@@ -49,7 +53,7 @@ events:
     description: "Software Development Intern in Seattle. Worked on <a href=\"https://products.office.com/en-us/project/enterprise-project-server\" target=\"_blank\">Microsoft Project Server and Project Online</a>, where I delivered a highly requested customer feature. Also used Microsoft Cosmos to aggregate large scale application telemetry and identify under performing areas of the application"
   - title: "<a href=\"http://cirrity.com\" target=\"_blank\">Cirrity</a>"
     image: "/img/career/cirrity.png"
-    date: "January 2015 - Present"
+    date: "January 2015 - March 2016"
     description: "Software Development Intern in Atlanta. Work on developing a customer portal in ASP MVC.NET. Uses the .NET Entity Framework with SQL Server"
   - title: "<a href=\"https://rackspace.com\" target=\"_blank\">Rackspace</a>"
     image: "/img/career/rackspace.png"
