@@ -9,8 +9,15 @@
     language: "Python, Java"
     platform: "Android"
     description: "An Android application that intelligently generates an itinerary for people who are in an unfamiliar city. Includes breakfast, lunch, and dinner options as well as recreational items. Uses the Yelp and Google Maps APIs."
-    
+
+  - name: "Redux Dynamic Modules"
+    url: "https://github.com/Microsoft/redux-dynamic-modules"
+    langugage: "Typescript"
+    platform: "Javascript"
+    description: "Redux Dynamic Modules aims to take all of the small pieces that make up a Redux application, including State, Reducers, and Selectors, and bundle them into modules that can be added/removed from the Redux store"
+
   - name: "Redux Saga Devtools Extension"
     url: "https://github.com/abettadapur/redux-saga-devtools-extension"
+    langugage: "Javascript"
     platform: "Chrome"
     description: "A Chrome extension to help you debug Redux Saga middleware in your application"
