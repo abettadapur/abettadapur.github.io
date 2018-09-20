@@ -39,11 +39,11 @@ reddit-share: True
 # Career variables
 
 events:
-  - title: "<a href=\"https://products.office.com/en-us/project/project-and-portfolio-management-software\" target=\"_blank\">Microsoft</a>"
+  - title: "<a href=\"https://azure.microsoft.com/en-us/services/devops/\" target=\"_blank\">Azure DevOps</a>"
     image: "/img/career/vsts.png"
     date: "August 2017 - Present"
-    description: "Front-end engineer on Azure DevOps"
-  - title: "<a href=\"https://products.office.com/en-us/project/project-and-portfolio-management-software\" target=\"_blank\">Microsoft</a>"
+    description: "Front-end engineer on Azure DevOps. Deliver modern UI experiences using React and Redux"
+  - title: "<a href=\"https://products.office.com/en-us/project/project-and-portfolio-management-software\" target=\"_blank\">Microsoft Project</a>"
     image: "/img/career/project.png"
     date: "March 2016 - August 2017"
     description: "Software developer on the Microsoft Project team."
