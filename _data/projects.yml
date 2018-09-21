@@ -12,12 +12,12 @@
 
   - name: "Redux Dynamic Modules"
     url: "https://github.com/Microsoft/redux-dynamic-modules"
-    langugage: "Typescript"
+    langugage: "Typescript,"
     platform: "Javascript"
     description: "Redux Dynamic Modules aims to take all of the small pieces that make up a Redux application, including State, Reducers, and Selectors, and bundle them into modules that can be added/removed from the Redux store"
 
   - name: "Redux Saga Devtools Extension"
     url: "https://github.com/abettadapur/redux-saga-devtools-extension"
-    langugage: "Javascript"
+    langugage: "Javascript,"
     platform: "Chrome"
     description: "A Chrome extension to help you debug Redux Saga middleware in your application"
