@@ -39,7 +39,7 @@ reddit-share: True
 # Career variables
 
 events:
-  - title: "<a href=\"https://www.messenger.com/desktop" target=\"_blank\">Messenger Desktop</a>"
+  - title: "<a href=\"https://www.messenger.com/desktop/\" target=\"_blank\">Messenger Desktop</a>"
     image: "/img/career/messenger.png"
     date: "January 2019 - Present"
     description: "Tech lead on Messenger Desktop, building this new experience from the ground up"
